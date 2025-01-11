@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VIRAT KOHLI</title>
+    <!-- <link rel="stylesheet" href="virat.css"> -->
+    <link rel="stylesheet" href="newvirat.css">
+    <!-- <script src="newvirat.js"></script> -->
+
+</head>
+<body>
+    <h1>Virat Kohli</h1>
+    <p></p>
+    <img src="virat.jpg" alt="Virat's Pic" height="150px" width="300px">
+    <p>
+    <div>
+          <strong>Born:</strong> 5 November 1988
+          <hr>
+        </p>
+        <p>
+          Virat Kohli is an Indian <a href="#">international cricketer</a> who plays <a href="#">Test</a> and <a href="#">ODI</a> cricket for the 
+          <a href="#">Indian national team</a>. A former <strong>captain</strong> in all formats of the game, Kohli retired 
+          from the T20I format following India's win at the <strong>2024 T20 World Cup</strong>.
+        </p>
+        <p>
+          He's a right-handed <strong>batsman</strong> and an occasional unorthodox right-arm quick <strong>bowler</strong>.
+        </p>
+        <p>
+          Kohli holds the highest <a href="#">IPL</a> run-scorer record, ranks third in <a href="#">T20I</a>, third in <a href="#">ODI</a>, 
+          and stands the fourth-highest in international cricket. Regarded as one of the greatest batsmen of all time, 
+          he also holds the record for scoring the most centuries in <a href="#">ODI</a> cricket and is second in the 
+          <a href="#">list of most international centuries</a> scored in international cricket.
+        </p>
+      </div>
+    <hr>
+    <h2>Personal Information</h2>
+    <table id="table1">
+        <tr>
+            <th>Born</th>
+            <td>5th November 1988<br>New Delhi,India</td>
+        </tr>
+        <tr>
+            <th>Nickname</th>
+            <td>Cheeku<br>King Kohli</td>
+        </tr>
+        <tr>
+            <th>Height</th>
+            <td>5 ft 9 inch(175 cm)</td>
+        </tr>
+        <tr>
+            <th>Batting</th>
+            <td>Right-Handed</td>
+        </tr>
+        <tr>
+            <th>Bowling</th>
+            <td>Right-arm medium</td>
+        </tr>
+        <tr>
+            <th>Role</th>
+            <td>Top Order batter</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>International Information</h2>
+    <table id="table1">
+        <tr>
+            <th>National Side</th>
+            <td>India(2008-present)</td>
+        </tr>
+        <tr>
+            <th>Test Debut <br> (cap 269)</th></h1>
+            <td>20 June 2011<br>(vs West indies)</td>
+        </tr>
+        <tr>
+            <th>ODI Debut</th>
+            <td>18 Augest 2008 <br> vs Sri lanka</td>
+        </tr>
+        <tr>
+            <th>ODI Shirt No.</th>
+            <td>18</td>
+        </tr>
+        <tr>
+            <th>T-20 Debut</th>
+            <td>12 June 2010<br>vs Zimbabwe </td>
+        </tr>
+        <tr>
+            <th>ODI Shirt No.</th>
+            <td>18</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Domestic team Information</h2>
+    <table>
+        <tr>
+            <th>2006-present</th>
+            <td>Delhi</td>
+        </tr>
+        <tr>
+            <th>2008-present</th>
+            <td>Royal challengers Banglore</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Career Statistic</h2>
+    <table>
+        <tr>
+            <th>competition</th>
+            <th>Test</th>
+            <th>ODI</th>
+            <th>T-20I</th>
+            <th>First Class</th>
+        </tr>
+        <tr>
+            <th>Matches</th>
+            <td>122</td>
+            <td>295</td>
+            <td>125</td>
+            <td>145</td>
+        </tr>
+        <tr>
+            <th>Runs Scored</th>
+            <td>9,202</td>
+            <td>13,906</td>
+            <td>4,188</td>
+            <td>11,097</td>
+        </tr>
+        <tr>
+            <th>Batting Average</th>
+            <td>47.43</td>
+            <td>58.18</td>
+            <td>48.69</td>
+            <td>50.21</td>
+        </tr>
+        <tr>
+            <th>100s/50s</th>
+            <td>31/31</td>
+            <td>50/72</td>
+            <td>1/38</td>
+            <td>36/38</td>
+        </tr>
+        <tr>
+            <th>Top Score</th>
+            <td>254*</td>
+            <td>183</td>
+            <td>122*</td>
+            <td>254*</td>
+        </tr>
+        <tr>
+            <th>Balls Bowled</th>
+            <td>175</td>
+            <td>662</td>
+            <td>152</td>
+            <td>643</td>
+        </tr>
+        <tr>
+            <th>Wickets</th>
+            <td>0</td>
+            <td>5</td>
+            <td>4</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th>Bowling Average</th>
+            <td>-</td>
+            <td>136.00</td>
+            <td>51.00</td>
+            <td>112.66</td>
+        </tr>
+        <tr>
+            <th>Catches</th>
+            <td>120</td>
+            <td>152</td>
+            <td>54</td>
+            <td>142</td>
+        </tr>
+    </table>
+    <hr>
+    <h2>Achievements</h2>
+    <table>
+        <thead>
+            <tr>
+              <th colspan="2">Men's cricket</th>
+            </tr>
+            <tr>
+              <th colspan="2">Representing India</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th colspan="2" class="category">ODI World Cup</th>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2011 India / Bangladesh / Sri Lanka</td>
+            </tr>
+            <tr>
+              <td>🥈</td>
+              <td>2023 India</td>
+            </tr>
+            <tr>
+              <th colspan="2" class="category">T20 World Cup</th>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2024 West Indies / United States</td>
+            </tr>
+            <tr>
+              <td>🥈</td>
+              <td>2014 Bangladesh</td>
+            </tr>
+            <tr>
+              <th colspan="2" class="category">World Test Championship</th>
+            </tr>
+            <tr>
+              <td>🥈</td>
+              <td>2021 England</td>
+            </tr>
+            <tr>
+              <td>🥈</td>
+              <td>2023 England</td>
+            </tr>
+            <tr>
+              <th colspan="2" class="category">Champions Trophy</th>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2013 England / Wales</td>
+            </tr>
+            <tr>
+              <td>🥈</td>
+              <td>2017 England / Wales</td>
+            </tr>
+            <tr>
+              <th colspan="2" class="category">Asia Cup</th>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2010 Sri Lanka</td>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2016 Bangladesh</td>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2023 Pakistan / Sri Lanka</td>
+            </tr>
+            <tr>
+              <th colspan="2" class="category">U19 World Cup</th>
+            </tr>
+            <tr>
+              <td>🥇</td>
+              <td>2008 Malaysia</td>
+            </tr>
+          </tbody>
+    </table>
+    <hr>
+    <div>
+        <p>
+          Kohli was a member of the Indian team that won the 
+          <a href="#">2008 Under-19 Cricket World Cup</a>, 
+          <a href="#">2011 Cricket World Cup</a>, 
+          <a href="#">2013 Champions Trophy</a>, and 
+          <a href="#">2024 T20 World Cup</a> and also captained India to win the 
+          <a href="#">ICC Test mace</a> three consecutive times in 2017, 2018, and 2019. 
+          He represents <a href="#">Royal Challengers Bengaluru</a> in the 
+          <a href="#">Indian Premier League</a> and <a href="#">Delhi</a> in 
+          <a href="#">domestic cricket</a>.
+        </p>
+        <p>
+          In 2013, Kohli was ranked number one in the ODI batsmen 
+          <a href="#">ICC rankings</a>. In 2015, he also achieved the same for T20I rankings.
+          In 2018, he was ranked the top Test batsman, making him the only Indian cricketer to hold the number one spot in all three formats. 
+          He is the first player to score 20,000 runs in a decade. In 2020, the 
+          <a href="#">ICC</a> named him the male cricketer of the decade.
+        </p>
+        <p>
+            Kohli has garnered <a href="#">10 ICC Awards</a> making him the most awarded player in International Cricket history.
+            He won the <a href="#">ICC ODI Player of the Year</a> award four times in 2012, 2017, 2018, and 2023. 
+            He also won the <a href="#">Sir Garfield Sobers Trophy</a> given to the ICC Cricketer of the Year, on two occasions, 
+            in 2017 and 2018 respectively. In 2018, he became the first player to win both <a href="#">ICC ODI</a> and 
+            <a href="#">Test Player of the Year</a> awards in the same year. Also, he was named the 
+            <a href="#">Wisden Leading Cricketer in the World</a> for three consecutive years, from 2016 to 2018.
+          </p>
+          
+          <p>
+            Kohli has the most Player of the Series awards and second most <a href="#">Player of the Match</a> awards to his name 
+            in all three formats combined. He was honoured with the <a href="#">Arjuna Award</a> in 2013, the 
+            <a href="#">Padma Shri</a> in 2017, and India's highest sporting honour, the <a href="#">Khel Ratna Award</a>, in 2018. 
+            In 2018, <a href="#">Time</a> magazine included him on its list of the 
+            <a href="#">100 most influential people in the world</a>.
+          </p>
+          
+          <p>
+            After winning the <a href="#">2024 T20 World Cup</a> and the Player of the Match in the <a href="#">Final</a>, 
+            Kohli announced his retirement from T20Is.
+          </p>
+      </div>
+    <div>
+      <strong>List of Records :</strong>
+      <hr>
+        <strong>Test records :</strong>
+        <ul>
+          <li>Most Wins as a captain of India,with 40 wins out of 68 Matches</li>
+          <li>Four Test double hundreds in four consecutiveseries</li>
+        </ul>
+        <strong>ODI records :</strong>
+        <ul>
+          <li>Most ODI centuries(50)</li>
+          <li>Most ODI centuries while chasing (27)</li>
+          <li>Most ODI centuries in India (22)</li>
+          <li>Fastest to 8,000 runs (175 innings), 9,000 runs (194 innings), 10,000 runs (205 innings), 11,000 runs (222 innings), 12,000 runs (242 innings), and 13,000 runs (267 innings)</li>
+        </ul>
+        <strong>T-20I records :</strong>
+        <ul>
+          <li>Highest career batting average in T20I – 48.69.</li>
+          <li>Fastest to - 3,000 runs (81 innings), 3,500 runs (96 innings), and 4,000 runs (107 innings)</li>
+          <li>Most Player of the Match awards (15 times) and Player of the Series awards (7 times)</li>
+        </ul>
+        <strong>IPL records :</strong>
+        <ul>
+          <li>Most runs in Indian Premier League.</li>
+          <li>Most runs in a single edition of IPL (973 runs in 2016).</li>
+          <li>Only player to be involved in three double-century plus stands, two times with AB de Villiers and once with Chris Gayle</li>
+          <li>Most runs against Delhi Capitals (1,030)</li>
+          <li>Most hundreds in the league (9) and in a single season (4)</li>
+        </ul>
+    </div>
+    <p></p>
+    <div>
+      <strong>List of Awards :</strong>
+      <hr>
+      <strong>National :</strong>
+      <ul>
+        <li>2013-<a href="#">Arjuna Award </a> ,second highest sporting honour.</li>
+        <li>2017-<a href="#">Padma Shri </a> ,India's fourth highest civilian award.</li>
+        <li>2018-<a href="#">Khel Ratna Award </a> ,India's highest sporting honour.</li>
+      </ul>
+      <strong>Intertional :</strong>
+      <ul>
+        <li><a href="#">Sir Garfield Sobers Trophy</a> ,(ICC Men's Cricketer of the Decade : 2011–2020)</li>
+        <li><a href="#">Sir Garfield Sobers Trophy</a> ,(ICC Cricketer of the Year : 2017, 2018)</li>
+        <li><a href="#">ICC Men's ODI Cricketer of the Decade:</a>2011–2020.</li>
+        <li><a href="#">ICC ODI Player of the Year:</a>2012, 2017, 2018, 2023</li>
+        <li><a href="#">ICC Test Player of the Year:</a>2018</li>
+        <li><a href="#">ICC ODI Team of the Year:</a> 2012, 2014, 2016 (captain), 2017 (captain), 2018 (captain), 2019 (captain), 2023</li>
+        <li><a href="#">ICC Test Team of the Year: </a>2017 (captain), 2018 (captain), 2019 (captain)</li>
+        <li><a href="#">ICC Men's T20I Team of the Year:</a>2022</li>
+        <li><a href="#">ICC Spirit of Cricket:</a>2019</li>
+        <li><a href="#">ICC Men's Test Team of the Decade:</a>2011–2020 (captain)</li>
+        <li><a href="#">ICC Men's ODI Team of the Decade:</a>2011-2020</li>
+        <li><a href="#">ICC Men's T-20I Team of the Decade:</a>2011-2020</li>
+        <li><a href="#">Polly Umrigar Award for International Cricketer of the Year:</a> 2011–12, 2014–15, 2015–16, 2016–17, 2017–18</li>
+        <li><a href="#">Wisden Leading Cricketer in the World:</a> 2016, 2017, 2018</li>
+        <li><a href="#">ICC Men's Player of the Month:</a> October 2022</li>
+        <li><a href="#">CEAT International Cricketer of the Year:</a> 2011–12, 2013–14, 2017–18, 2018–19</li>
+        <li><a href="#">Indian Premier League Orange Cap for most runs:</a> 2016, 2024</li>
+        <li><a href="#">Barmy Army – International Player of the Year:</a> 2017, 2018</li>
+        <li><a href="#">ESPNcricinfo – ODI Batting Performance of the Year:</a> 2012</li>
+      </ul>
+      <strong>Others :</strong>
+      <ul>
+        <li><a href="#">People's Choice Awards India for Favourite Sportsperson:</a> 2012</li>
+        <li><a href="#">GQ Sportsman of the Year:</a> 2013</li>
+        <li><a href="#">CNN-News18 Indian of the Year:</a> 2017</li>
+        <li><a href="#">PETA India's Person of the Year:</a> 2019</li>
+        <li><a href="#">DDCA Renamed Stand at Feroz Shah Kotla, Delhi:</a> In honor of Virat Kohli</li>
+      </ul>
+    </div>
+  <hr>
+  <footer><h1>Thank you &hearts;</h1></footer>
+</body>
+</html>
